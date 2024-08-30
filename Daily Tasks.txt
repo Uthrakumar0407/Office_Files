@@ -97,13 +97,13 @@ https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-252816
 
 Assigned the tasks for shopware compatibility.
 
-Involved in meeting on QAcompletion. - 20 mins
-
-Involved in meeting on BUG tracking tool. - 1 hr
+Involved in meeting on QA completion. - 20 mins
 
 Archive management sheet  update for compatibility testing - 15 mins
 
-Analysed the bug tracking tools and its features - 3 hrs
+Involved in meeting on BUG tracking tool with Mr. Sathish and Mr. Vigneshwaran.
+Analyzed the bug tracking tools and its features - 
+https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-265934037553/task-399871345447 - 4 hrs
 
 AUG_14
 * Analyzed the tasks. and created the task on admin portal configuration for Oxid 7,  jtl 5 and Shopware 6 app. Assigned the tasks to testers.
@@ -124,9 +124,9 @@ https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-252816
 
 Analyzed the preferred programming language for bug tracking tool.
 So far  react js (frontend) and node js (backend) are mostly  used for these kind of applications.
- So I have setup the nodejs and react js in my system and anlaysing it process. 
+ So I have setup the nodejs and react js in my system and analyzing it process. 
 
- - 4:35 hrs
+ https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-265934037553/task-399871345447 - 4:35 hrs
 
 
 AUG_16
@@ -142,7 +142,7 @@ Learnt about react and node js.
 Analyzed the react js and node js basic working flow with example scripts.
 Analysed about saving the data in db.
 
-- 6:02 hrs
+https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-265934037553/task-399871345447 - 6:02 hrs
 
 AUG_19
 Analyzed the open tasks and ensured the team tasks and its progress.
@@ -161,7 +161,8 @@ Payment flow is working fine except the points mentioned in the comments.
 
 https://novalnet.proofhub.com/bapplite/#app/todos/project-6720576330/list-252826469591/task-397189516206 - 4:02 hrs
 
-Learnt react js components basics   - 2:15 hr
+Learnt react js components basics  
+https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-265934037553/task-399871345447 - 2:15 hr
 
 AUG_20
 Placed some successful order after user and admin credentials have been changed in the demo shop.
@@ -183,7 +184,8 @@ https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-252816
 2. Involved in discussion with QA team on further proceedings in QA process. 
 https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-252816116662/task-397295922063 - 1:20 hrs
 
-Leanrt about the components, Navigation, router on react and its usages. - 3:12 hrs
+Learnt about the components, Navigation, router on react and its usages. 
+https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-265934037553/task-399871345447 - 2:14 hrs
 
 AUG_21
 Analyzed the open tasks and ensured the team tasks and its progress. Assigned the pending tasks to available resources.
@@ -198,7 +200,8 @@ Shared the final document and source doc to Mr. Kaushik via Skype.
 https://novalnet.proofhub.com/bapplite/#app/todos/project-8195753379/list-267346635691/task-395549370729 - 2:30 hrs
 
 Learned and practiced the html for basic coding in react and fetching db using a sample page for bug lists.
-Started the login page basic skeleton, - 3:40 hrs
+Started the login page basic skeleton, 
+https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-265934037553/task-399871345447 - 3:40 hrs
 
 
 AUG_22
@@ -216,10 +219,10 @@ https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-252816
 
 Learned and practiced the react js for basic coding and fetching db using a sample page for login page.
 Working on the login page basic skeleton
-- 6:15 hrs
+https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-265934037553/task-399871345447 - 6:15 hrs
 
 AUG_23
-TAsks need to be closed: https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-253848940056/task-398054657429
+Tasks need to be closed: https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-253848940056/task-398054657429
  
  Pending task : https://novalnet.proofhub.com/bapplite/#app/todos/project-6720304956/list-252818111263/task-398515871596
 
@@ -232,8 +235,10 @@ Tracked the open tasks. Assigned the pending tasks to available resources.
 Assisted Mr Vigneshwaran in reproducing the Applepay payment issue in the Magento novalnet module. 
 https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-252816116662/task-397296207006 - 45 mins
 
-Working on the login page and 
- 
+Working on the login page and learnt about the required modules to build the page.
+https://novalnet.proofhub.com/bapplite/#app/todos/project-6720264250/list-265934037553/task-399871345447 -4:01 hrs
+
+CFO meeting in office and snacks distribution. - 2 hrs
 
 AUG_26
 Verified the report and closed the task with the required comments.
@@ -267,7 +272,7 @@ Only mild increases in the rendering speed of payment form.
  https://novalnet.proofhub.com/bapplite/#app/todos/project-8195753379/list-267346635691/task-399854465967 - 2:30 hrs
 
 
-Login page analysing , As the dashboard is not updating 
+Completed the Login page skeleton, However the dashboard is not loading so analysing the issue. - 30 mins
 
 AUG_27
 * Tracked the open tasks. Assigned the pending tasks to available resources.
@@ -313,6 +318,7 @@ Had a discussion with Mr. Sathish regarding the tasks progress and place change.
 Involved in team discussion related to matching team timings and other general process. 
 - 1:30 hrs
 
+Learning the html content 
 
 
 
